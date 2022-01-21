@@ -1,0 +1,18 @@
+{
+    "id": 157,
+    "category": {
+        "id": 1,
+        "name": "Cats"
+    },
+    "name": "Messy",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "kitten"
+        }
+    ],
+    "status": "available"
+}
